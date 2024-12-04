@@ -1,0 +1,1 @@
+.components-view thead tr:first-child th{background-color:#eee}.components-view thead tr th{position:sticky;z-index:1;font-weight:700;font-size:13px}.components-view thead tr:first-child th{top:0}.components-view.q-table--loading thead tr:last-child th{top:48px}
