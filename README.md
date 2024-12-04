@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Core App (frontend)
 
 Core Application
@@ -39,3 +40,7 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+=======
+# my_core
+My Core App
+>>>>>>> 77fe2bf00dc23541bed26d80abbb7cd43c28b0a1
