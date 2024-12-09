@@ -1,0 +1,1 @@
+import{j as o}from"./index.af5325f0.js";var a=o(({})=>{localStorage.access_token&&(localStorage.setItem("access_token",localStorage.access_token),localStorage.setItem("user",localStorage.user))});export{a as default};
